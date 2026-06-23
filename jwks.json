@@ -1,0 +1,10 @@
+{
+  "keys": [
+    {
+      "e": "AQAB",
+      "kid": "epic-key",
+      "kty": "RSA",
+      "n": "4lYKB2nJ7vhKUxhYwtAOw9NXe4Et1wHhcgRMsEtqK-t5HxgFfmIpPk2FIkAcdqWnOV6Oz0v3cyLXJRJhyt0tJQf-1Bv-unapkW6MFSZvOkaI2p2NMbSfWCGqhLVW2mPgmqyFI-CpPjfEk7bIFQLb4f6hEAoonOp6wWmmRn4bO7B5NbFofNgjg1SH7xrzrW7Te-o6z1w0fdMzhDhFZmElimACcFyVgR_aAL_E8U1zyhO3pA4MWpH551d3g9hRX1zMNX13KEBJuH4xTRyGX3oCnXQ8PBr5zS-6fyd8SkSc7MxPvdLHGWJeELBo4RgT0f26sA8NPy8ZAk7KdIzDZvPr4Q"
+    }
+  ]
+}
